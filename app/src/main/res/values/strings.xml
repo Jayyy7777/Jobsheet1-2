@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BelajarAndroid1</string>
+    <string name="nameEditText">Nama Mahasiswa</string>
+    <string name="buttonButton">Start</string>
+    <string name="buttonTextView">Hallo %1$s</string>
+    <string-array name="names">
+        <item>Wahyudi</item>
+        <item>Senja</item>
+        <item>Pratiwi</item>
+    </string-array>
+</resources>
